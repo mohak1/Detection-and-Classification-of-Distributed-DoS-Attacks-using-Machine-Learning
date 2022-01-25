@@ -1,5 +1,0 @@
-Orinal dataset can be found on Canadian Institute for Cybersecurity website:
-https://www.unb.ca/cic/datasets/ddos-2019.html
-
-The datasets used in the pre-processing IPython Notebook (DDOS_dataProcessing.ipynb) can be downloaded from the following link: 
-https://drive.google.com/drive/folders/1BBCAAL7I4xKwRQJ8Joziqi28PccBQGOi?usp=sharing
